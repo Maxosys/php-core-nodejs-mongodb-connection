@@ -1,0 +1,16 @@
+{
+  "name": "maxosys-php-node-mongo",
+  "version": "1.0.0",
+  "description": "How to Connect Php with Node Js and CRUD opration with MongoDB",
+  "main": "nodeserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maxosys-NWTL100",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "mongodb": "^3.1.4",
+    "mv": "^2.1.1"
+  }
+}
